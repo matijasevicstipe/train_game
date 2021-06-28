@@ -1,0 +1,12 @@
+42/pik/tri
+38/dijamant/queen
+21/srce/osam
+18/srce/pet
+29/dijamant/tri
+9/zir/devet
+4/zir/cetiri
+3/zir/tri
+34/dijamant/osam
+11/zir/jack
+32/dijamant/sest
+23/srce/deset
